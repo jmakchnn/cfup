@@ -1,4 +1,4 @@
-name = "ucpf"
+name = "old-breeze-91c7"
 main = "_worker.js"
 compatibility_date = "2025-11-02"
 usage_model = "bundled"
